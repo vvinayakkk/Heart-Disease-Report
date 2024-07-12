@@ -25,13 +25,13 @@ The dataset consists of the following columns:
 
 ### Performance Metrics
 
-| Model                        | Precision (Class 1) | Recall (Class 1) | F1 Score (Class 1) | ROC-AUC Score   | Accuracy   |
-|------------------------------|---------------------|-------------------|---------------------|-----------------|------------|
-| **Gaussian Naive Bayes**     | 0.82                | 0.95              | 0.88                | 0.840           | 82.80%     |
-| **K-Nearest Neighbors (KNN)**| 0.82                | 0.95              | 0.88                | 0.840           | 81.57%     |
-| **Support Vector Classifier (SVC)** | 0.82                | 0.95              | 0.88                | 0.840           | 85.50%     |
-| **Decision Tree**            | 0.82                | 0.95              | 0.88                | 0.840           | 80.26%     |
-| **Random Forest**            | 0.82                | 0.95              | 0.88                | 0.840           | 82.89%     |
+| Model                        | Accuracy   |
+|------------------------------|------------|
+| **Gaussian Naive Bayes**     |82.80%      |
+| **K-Nearest Neighbors (KNN)**| 81.57%     |
+| **Support Vector Classifier (SVC)** |  85.50%     |
+| **Decision Tree**            |  80.26%    |
+| **Random Forest**            |  82.89%    |
 
 ### Performance Metric Definitions
 
